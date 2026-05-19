@@ -10,11 +10,11 @@
 ### 🧑‍💻 About Me
 
 - 🏢 Working at **[Opta data Gruppe](https://github.com/Opta)** — building scalable backend systems
-- 🔧 Specializing in **REST APIs**, **backend architecture**, and **desktop applications**
-- 🖥️ Experienced with **Delphi / Pascal** (ERP, VCL, DevExpress) and **.NET / C#** (Avalonia UI, WPF)
+- 🔧 Specializing in **desktop applications**, **backend architecture**, and **REST APIs**
+- 🖥️ Experienced with **Delphi / Pascal** (ERP, VCL, DevExpress),SAP (Crystal Reports) and **.NET / C#** (Avalonia UI, WPF)
 - 🌍 Based in **Germany**
-- 🌱 Currently exploring **cloud infrastructure** and **microservices**
-- 📫 Reach me at: **[your-email@example.com]** *(замени на свой email)*
+- 🌱 Currently exploring **cloud infrastructure**,**AI** and **microservices**
+- 📫 Reach me at: **[saidmubin.s16m@gmail.com]**
 
 ---
 
@@ -54,10 +54,10 @@
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/saidmubin-salohiddinov-5653ba280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:saidmubin.s16m@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
