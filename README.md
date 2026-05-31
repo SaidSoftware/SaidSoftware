@@ -11,7 +11,7 @@
 
 - 🏢 Working at **[Opta data Gruppe](https://github.com/Opta)** — building scalable backend systems
 - 🔧 Specializing in **desktop applications**, **backend architecture**, and **REST APIs**
-- 🖥️ Experienced with **Delphi / Pascal** (ERP, VCL, DevExpress),SAP (Crystal Reports) and **.NET / C#** (Avalonia UI, WPF)
+- 🖥️ Experienced with **Delphi / Pascal** (ERP, VCL, DevExpress),SAP (Crystal Reports),BI and **.NET / C#** (Avalonia UI, WPF)
 - 🌍 Based in **Germany**
 - 🌱 Currently exploring **cloud infrastructure**,**AI** and **microservices**
 - 📫 Reach me at: **[saidmubin.s16m@gmail.com]**
